@@ -6,9 +6,9 @@ description: How to use Apollo Client with the view layer your application is de
 
 ## React
 
-React Apollo allows you to fetch data from your GraphQL server and use it in building complex and reactive UIs using the React framework. React Apollo may be used in any context that React may be used. In the browser, in React Native, or in Node.js when you want to server side render.
+Apollo Client's built-in React support allows you to fetch data from your GraphQL server and use it in building complex and reactive UIs using the React framework. Apollo Client may be used in any context that React may be used. In the browser, in React Native, or in Node.js when you want to server side render.
 
-React Apollo, unlike some other tools in the React ecosystem, requires _no_ complex build setup to get up and running. As long as you have a GraphQL server you can get started building out your application with React immediately. React Apollo works out of the box with both [`create-react-app`](https://github.com/facebookincubator/create-react-app) and [React Native](http://facebook.github.io/react-native
+Apollo Client, unlike some other tools in the React ecosystem, requires _no_ complex build setup to get up and running. As long as you have a GraphQL server you can get started building out your application with React immediately. Apollo Client's React functionality works out of the box with both [`create-react-app`](https://github.com/facebookincubator/create-react-app) and [React Native](http://facebook.github.io/react-native
 ) with a single install and with no extra hassle configuring Babel or other JavaScript tools.
 
 ## Vue
@@ -17,7 +17,7 @@ A [Vue.js](https://vuejs.org/) integration is maintained by Guillaume Chau ([@Ak
 
 ## Svelte
 
-A [Svelte](https://svelte.dev) integration is maintained by Tim Hall ([@timhall](https://github.com/timhall)). See Github [repository](https://github.com/timhall/svelte-apollo) for more details.
+A [Svelte](https://svelte.dev) integration is maintained by Tim Hall ([@timhall](https://github.com/timhall)). See the Github [repository](https://github.com/timhall/svelte-apollo) for more details.
 
 ## Angular
 
@@ -25,10 +25,7 @@ To use Apollo with the [Angular](https://angular.io) rendering library, see the 
 
 ## Ember
 
-There are two [Ember](http://emberjs.com/) integrations available:
-
-* [ember-apollo-client](https://github.com/bgentry/ember-apollo-client) is maintained by Blake Gentry ([@bgentry](https://github.com/bgentry)).
-* [ember-apollo](https://github.com/jlevycpa/ember-apollo) is maintained by Jeff Levy ([@jlevycpa](https://github.com/jlevycpa)).
+An [Ember](http://emberjs.com/) integration is maintained by Josemar Luedke ([@josemarluedke](https://github.com/josemarluedke)). See the Github [repository](https://github.com/ember-graphql/ember-apollo-client) for more details. The creator of the project is Blake Gentry ([@bgentry](https://github.com/bgentry)).
 
 ## Web Components
 
